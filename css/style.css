@@ -1,0 +1,78 @@
+ .nav{
+ 	background-color: #49c74e;
+ 	color:#fafafa;
+	margin-top: 10px;
+	
+}
+.nav h4{
+	
+	font-style: italic;
+	
+	margin-top: 30px;
+
+}
+.nav img{
+	margin-right: 340px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.nav button{
+	height:40px;
+	width:80px;
+
+}
+.nav a:hover{
+	color:#fafafa;
+	font-weight: bold;
+}
+.nav input{
+	width:150px;
+	height: 40px;
+	margin-left:90px;
+	outline:none; 
+
+}
+.nav input:hover{
+	
+}
+section div
+{
+
+margin-bottom: 5px;
+margin-left: 5px;
+width:30%
+
+
+}
+section div img{
+	margin-bottom: 5px;
+	height: 300px ;
+}
+section div span{
+	font-size: 30px;
+	font-weight: bold;
+}
+hr.break{
+	width:800px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+
+}
+.footer{
+	width:100%;
+	height:300px;
+	background: #766F70
+}
+h4 .icon{
+	margin-top: 20px;
+}
+.book{
+	color:#000;
+	margin-top: 20px;
+	margin-left: 10px;
+
+}
+span .mail{
+	display: block;
+
+}
